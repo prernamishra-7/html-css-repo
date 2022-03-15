@@ -12,6 +12,16 @@ Git Commands to push the code to remote repository
 9  git pull origin main - To pull the changes from remote repository 
 10. git clone - will fetch your remote repo to your local folder
 
+git commands to remove file from git after removing from vs code
+---------------------------------------------------------------
+
+$ git rm <file>
+
+$ git commit -m "Deleted the file from the git repository"
+
+$ git push
+
+
 
 git config for the first time
 ------------------------------
